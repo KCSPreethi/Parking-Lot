@@ -1,0 +1,5 @@
+package location
+
+class Mall {
+
+}
